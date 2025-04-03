@@ -1,3 +1,5 @@
+Privacy Policy for the Discord Bot “Benji Coleman”
+
 1. Data Controller
 The operator of the Discord bot “Benji Coleman” is:
 ufosolution
